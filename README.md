@@ -1,4 +1,4 @@
-# Testing of AR Mobile applications
+# Model Based Testing of AR Mobile applications
 Before describing the steps by which to replicate the carried out tests, we illustrate the files and folders in the repository. At the beginning of the hierarchy there are three folders:
 * log analysis, containing the .jar file, necessary for the analysis of the log files (as will be shown below), and the related source code folder;
 * Safari Animal AR;
